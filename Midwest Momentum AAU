@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Midwest Momentum AAU</title>
+  <link rel="stylesheet" href="css/style.css">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">Midwest Momentum AAU</div>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="shop.html">Shop</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="signup.html" class="signup-btn">Sign Up</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section class="hero">
+    <h1>Welcome to Midwest Momentum AAU</h1>
+    <p>Building champions in Basketball, Volleyball, and Track & Field.</p>
+    <a href="signup.html" class="cta">Join Our Team</a>
+  </section>
+  <section class="section">
+    <h2>Our Sports</h2>
+    <div class="sports-list">
+      <div class="sport-card">
+        <img src="images/basketball.jpg" alt="Basketball">
+        <h3>Basketball</h3>
+      </div>
+      <div class="sport-card">
+        <img src="images/volleyball.jpg" alt="Volleyball">
+        <h3>Volleyball</h3>
+      </div>
+      <div class="sport-card">
+        <img src="images/track.jpg" alt="Track & Field">
+        <h3>Track & Field</h3>
+      </div>
+    </div>
+  </section>
+  <footer>
+    <p>© 2024 Midwest Momentum AAU. All rights reserved.</p>
+  </footer>
+</body>
+</html>
